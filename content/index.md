@@ -368,7 +368,7 @@ Information on web accessibility:
 
 {% include_cached excol.html type="start" id="terms" %}
 
-### Terminology
+### Terminology - test
 
 {% include_cached excol.html type="middle" %}
 
